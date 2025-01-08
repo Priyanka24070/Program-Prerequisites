@@ -18,4 +18,5 @@ public class FahrenheitToCelsius {
         // Close the scanner
         scanner.close();
     }
+    
 }
